@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Master\SD\Distributed-Systems\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3693686098.index
+\TextFileServicesServer\src\main\java
+C:\Master\SD\Distributed-Systems\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1176046355.index
+\TextFileServicesServer\src\main\java
+C:\Master\SD\Distributed-Systems\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1907061541.index
+\TextFileServicesServer\src\main\java
+C:\Master\SD\Distributed-Systems\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\992257284.index
+\TextFileServicesServer\src\main\java
+C:\Master\SD\Distributed-Systems\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2733113789.index
+\TextFileServicesServer\src\main\java

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.services.axis2server;
+
+/**
+ * @author Cristi
+ *
+ */
+public class TextFileContentRetrieverService {
+
+}
