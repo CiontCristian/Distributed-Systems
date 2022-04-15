@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Mon Apr 11 13:50:17 EEST 2022
+#Fri Apr 15 11:31:21 EEST 2022
 org.eclipse.jst.jee.server\:TextFileServicesServer=C\:\\PROGRAME\\apache-tomcat-9.0.62\\wtpwebapps\\TextFileServicesServer
+org.eclipse.jst.jee.server\:Axis2Client=C\:\\PROGRAME\\apache-tomcat-9.0.62\\wtpwebapps\\Axis2Client

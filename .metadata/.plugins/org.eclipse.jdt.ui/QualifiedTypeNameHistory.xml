@@ -5,4 +5,8 @@
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="com.services.axis2server.TextFileContentRetrieverStub.TestResponse"/>
+    <fullyQualifiedTypeName name="com.services.axis2server.TextFileContentRetrieverStub.Test"/>
+    <fullyQualifiedTypeName name="com.services.axis2server.TextFileContentRetrieverStub.RetrieveTextFileContent"/>
+    <fullyQualifiedTypeName name="com.services.axis2server.TextFileContentRetrieverStub.RetrieveTextFileContentResponse"/>
 </qualifiedTypeNameHistroy>
